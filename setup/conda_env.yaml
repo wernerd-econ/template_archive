@@ -1,4 +1,4 @@
-name: template #CHANGE for your project
+name: Task3 #CHANGE for your project
 channels:
   - conda-forge
 dependencies:
