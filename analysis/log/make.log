@@ -1,12 +1,10 @@
 --------------------------------------------------------------------------------
-Makelog started: 2025-07-10 16:04:21
+Makelog started: 2025-07-10 16:42:55
 Working directory: /Users/wernerd/Desktop/gentzkowlab-projects/template_archive/analysis
 --------------------------------------------------------------------------------
 Input links successfully created!
 External links successfully created!
 Source logs successfully written!
-WARNING! The following target files have been modified according to git status:
-/Users/wernerd/Desktop/gentzkowlab-projects/template_archive/data/output/data_cleaned.csv
 Version logs successfully written!
 Executing command: `python  "/Users/wernerd/Desktop/gentzkowlab-projects/template_archive/analysis/code/analyze_data.py" `
 /opt/anaconda3/envs/Task3/lib/python3.13/site-packages/linearmodels/panel/model.py:1260: MissingValueWarning: 
@@ -15,6 +13,6 @@ Inputs contain missing values. Dropping rows with missing observations.
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2025-07-10 16:04:24
+Makelog ended: 2025-07-10 16:42:58
 Working directory: /Users/wernerd/Desktop/gentzkowlab-projects/template_archive/analysis
 --------------------------------------------------------------------------------

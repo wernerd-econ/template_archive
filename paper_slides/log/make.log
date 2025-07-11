@@ -1,12 +1,11 @@
 --------------------------------------------------------------------------------
-Makelog started: 2025-07-10 16:04:24
+Makelog started: 2025-07-10 16:42:58
 Working directory: /Users/wernerd/Desktop/gentzkowlab-projects/template_archive/paper_slides
 --------------------------------------------------------------------------------
 Input copies successfully created!
 External copies successfully created!
 Source logs successfully written!
 WARNING! The following target files have been modified according to git status:
-/Users/wernerd/Desktop/gentzkowlab-projects/template_archive/analysis/output/regression.csv
 /Users/wernerd/Desktop/gentzkowlab-projects/template_archive/data/output/chips_sold.pdf
 Version logs successfully written!
 Executing command: `pdflatex -output-directory=../latex_auxiliary_dir  "/Users/wernerd/Desktop/gentzkowlab-projects/template_archive/paper_slides/code/paper.tex"`
@@ -153,7 +152,7 @@ xmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2025/texmf-dist/fo
 nts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/
 urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on ../latex_auxiliary_dir/paper.pdf (6 pages, 52489 bytes).
+Output written on ../latex_auxiliary_dir/paper.pdf (6 pages, 59483 bytes).
 Transcript written on ../latex_auxiliary_dir/paper.log.
 
 Executing command: `pdflatex -output-directory=../latex_auxiliary_dir  "/Users/wernerd/Desktop/gentzkowlab-projects/template_archive/paper_slides/code/online_appendix.tex"`
@@ -559,11 +558,11 @@ Package rerunfilecheck Warning: File `slides.out' has changed.
 xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/tex
 mf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2025/texmf-dist
 /fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on ../latex_auxiliary_dir/slides.pdf (10 pages, 34466 bytes).
+Output written on ../latex_auxiliary_dir/slides.pdf (10 pages, 40899 bytes).
 Transcript written on ../latex_auxiliary_dir/slides.log.
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2025-07-10 16:04:27
+Makelog ended: 2025-07-10 16:43:00
 Working directory: /Users/wernerd/Desktop/gentzkowlab-projects/template_archive/paper_slides
 --------------------------------------------------------------------------------
